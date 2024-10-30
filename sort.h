@@ -1,10 +1,10 @@
-#ifndef SORT_H_
-#define SORT_H_
+#ifndef SORT_H
+#define SORT_H
 
-#include <stdlib.h>
 #include <stdio.h>
+#include <stdlib.h>
 
-/* This compares direction macros for bitonic sort */
+/* Comparison direction macros for bitonic sort */
 #define UP 0
 #define DOWN 1
 

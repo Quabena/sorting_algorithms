@@ -1,5 +1,5 @@
-#ifndef DECK_H_
-#define DECK_H_
+#ifndef DECK_H
+#define DECK_H
 
 #include <stdlib.h>
 
@@ -47,4 +47,4 @@ typedef struct deck_node_s
 
 void sort_deck(deck_node_t **deck);
 
-#endif /* DECK_H_ */
+#endif /* DECK_H */
